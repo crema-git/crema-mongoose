@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://crema-admin:crema123@crema.jzkrk.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
